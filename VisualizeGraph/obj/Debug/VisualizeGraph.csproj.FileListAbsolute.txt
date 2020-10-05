@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\obj\Debug\VisualizeGraph.csprojAssemblyReference.cache
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\obj\Debug\VisualizeGraph.Properties.Resources.resources
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\obj\Debug\VisualizeGraph.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\obj\Debug\VisualizeGraph.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\bin\Debug\VisualizeGraph.exe.config
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\bin\Debug\VisualizeGraph.exe
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\bin\Debug\VisualizeGraph.pdb
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\bin\Debug\AutomaticGraphLayout.dll
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\bin\Debug\AutomaticGraphLayout.Drawing.dll
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\bin\Debug\Microsoft.Msagl.WpfGraphControl.dll
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\obj\Debug\VisualizeGraph.csproj.CopyComplete
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\obj\Debug\VisualizeGraph.exe
+C:\Users\franc\source\repos\VisualizeGraph\VisualizeGraph\obj\Debug\VisualizeGraph.pdb
